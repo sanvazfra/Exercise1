@@ -5,6 +5,8 @@ public class Aplication {
 		System.out.println("Hola mundo!");
 		System.out.println("Hola mundo!");
 		tengoAmbre();
+		yotambien();
+		yono();
 	}
 	public static void tengoAmbre(){
 		System.out.println("Tengo ambre!!!");
