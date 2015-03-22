@@ -12,4 +12,7 @@ public class Aplication {
 	public void yotambien(){
 		System.out.println("yo tambien!!!");
 	}
+	public void yono(){
+		System.out.println("yo no!!!");
+	}
 }
