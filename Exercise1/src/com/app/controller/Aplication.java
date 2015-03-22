@@ -9,4 +9,7 @@ public class Aplication {
 	public static void tengoAmbre(){
 		System.out.println("Tengo ambre!!!");
 	}
+	public void yotambien(){
+		System.out.println("yo tambien!!!");
+	}
 }
